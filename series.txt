@@ -6,3 +6,7 @@ series5
 series6
 series7
 series8
+page1
+page2
+page3
+page4
